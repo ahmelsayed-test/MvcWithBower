@@ -1,0 +1,9 @@
+{
+  "name": "myProject",
+  "version": "1.0.0",
+  "dependencies": {
+    "font-awesome": "~3.1.1",
+    "d3": "~3.0",
+    "bootstrap": "~3.3.2"
+  }
+}
